@@ -13,3 +13,4 @@ for num1 in lista1:
 
 for resultado in resultados:
     print(resultado)
+#pruebas
